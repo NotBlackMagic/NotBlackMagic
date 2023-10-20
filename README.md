@@ -3,7 +3,7 @@
 ### What langauges do I use?
 This is a complied chart of programming langauges used in my GitHub projects!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotBlackMagic)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotBlackMagic&layout=compact&theme=dark)
 
 ### Find me also on:
 - [Twitter](https://twitter.com/NotBlackMagic1): Get the latest news and updates on current, and future, projects!
